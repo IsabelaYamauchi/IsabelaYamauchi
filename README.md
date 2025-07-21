@@ -2,21 +2,9 @@
 
 **`Estudante de Análise e Desenvolvimento de Sistemas`**
 
-Sou estudante de Análise e Desenvolvimento de Sistemas na FIAP, com trajetória que conecta tecnologia, design e criatividade. Comecei minha carreira na área de design gráfico e UI/UX, desenvolvendo soluções visuais e experiências digitais centradas no usuário. Essa base fortaleceu meu olhar para acessibilidade, usabilidade e inovação.
-Com o tempo, aprofundei meu interesse por tecnologia e passei a atuar em desenvolvimento web. Tenho conhecimentos em HTML, CSS, JavaScript, Python e Java, além de experiência em modelagem de dados (SQL) e versionamento com Git. Também possuo familiaridade com ferramentas e plataformas como Figma, Adobe Creative Cloud, IBM Watson Assistant, Node-RED e Power BI.
-Realizei um intercâmbio no Canadá, onde aprimorei meu inglês (nível avançado) e desenvolvi uma visão multicultural que levo para todas as minhas experiências. Atuei como associada de marketing em empresa júnior, fortalecendo habilidades em comunicação, organização e trabalho em equipe.
+Estudante de Análise e Desenvolvimento de Sistemas na FIAP, com background em design gráfico e UI/UX. Tenho experiência em desenvolvimento web com HTML, CSS, JavaScript, Python e Java, além de conhecimento em modelagem de dados (SQL), versionamento com Git, e ferramentas como Figma, Power BI e IBM Watson Assistant.
 
-Sou curiosa, dedicada e apaixonada por aprender. Estou sempre em busca de novos conhecimentos e desafios que unam criatividade, tecnologia e impacto positivo.
-
-✨ Meus interesses incluem:
-
-• Desenvolvimento front-end e web
-
-• UI/UX design e acessibilidade digital
-
-• Automação de processos e chatbots
-
-• Projetos interdisciplinares que conectem arte e tecnologia
+Sou apaixonada por tecnologia, design e aprendizado contínuo. Aqui no GitHub você encontrará alguns dos meus projetos acadêmicos e pessoais, que refletem minha jornada e evolução como desenvolvedora.
 
 
 <p align="left">
