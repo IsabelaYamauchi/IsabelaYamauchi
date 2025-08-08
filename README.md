@@ -2,9 +2,11 @@
 
 **`Estudante de Análise e Desenvolvimento de Sistemas`**
 
-Estudante de Análise e Desenvolvimento de Sistemas na FIAP, com background em design gráfico e UI/UX. Tenho experiência em desenvolvimento web com HTML, CSS, JavaScript, Python e Java, além de conhecimento em modelagem de dados (SQL), versionamento com Git, e ferramentas como Figma, Power BI e IBM Watson Assistant.
+Estudante de Análise e Desenvolvimento de Sistemas na FIAP, com background em design gráfico e UI/UX. Experiência em desenvolvimento web com HTML, CSS, JavaScript, Python e Java, além de modelagem de dados (SQL) e versionamento com Git.
 
-Sou apaixonada por tecnologia, design e aprendizado contínuo. Aqui no GitHub você encontrará alguns dos meus projetos acadêmicos e pessoais, que refletem minha jornada e evolução como desenvolvedora.
+Tenho conhecimento em ferramentas como Figma, Power BI e IBM Cloud, com interesse em automação de processos e integração de soluções.
+
+Apaixonada por tecnologia, inovação e aprendizado contínuo, busco oportunidades para aplicar minhas habilidades em projetos que unam desenvolvimento, design e dados.
 
 
 <p align="left">
