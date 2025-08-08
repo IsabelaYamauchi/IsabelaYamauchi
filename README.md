@@ -17,13 +17,6 @@ Apaixonada por tecnologia, inovação e aprendizado contínuo, busco oportunidad
       src="https://img.shields.io/badge/LinkedIn-08403F"
     />
   </a>
-  <a href="mailto:isa.yamauchi.y@gmail.com">
-    <img
-      alt="Enviar e-mail"
-      title="Enviar e-mail"
-      src="https://img.shields.io/badge/Email-A91B0D"
-    />
-  </a>
 </p>
 
 
