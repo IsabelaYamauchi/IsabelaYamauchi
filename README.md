@@ -21,7 +21,7 @@ Apaixonada por tecnologia, inovação e aprendizado contínuo, busco oportunidad
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### ✨Front-end : 
 
 <img 
     align="left" 
@@ -39,15 +39,20 @@ Apaixonada por tecnologia, inovação e aprendizado contínuo, busco oportunidad
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
-/>
+
 <img 
     align="left" 
-    alt="Git" 
-    title="Git"
+    alt="JavaScript" 
+    title="JavaScript"
     width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
 />
+
+</br>
+
+### ✨Back-end:
+
 <img 
     align="left" 
     alt="Python" 
@@ -64,6 +69,9 @@ Apaixonada por tecnologia, inovação e aprendizado contínuo, busco oportunidad
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"         
 />
+
+
+
 <img 
     align="left" 
     alt="Oracle SQL developer" 
@@ -72,19 +80,40 @@ Apaixonada por tecnologia, inovação e aprendizado contínuo, busco oportunidad
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-plain.svg" 
 />
-    
-  <img 
+
+</br>
+
+### ✨Ferramentas:
+
+<img 
     align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
+    alt="Git" 
+    title="Git"
     width="30px" 
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-          
-                          
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
 
+<img 
+    align="left" 
+    alt="PowerBi" 
+    title="PowerBi"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://img.icons8.com/color/48/power-bi-2021.png" alt="power-bi-2021" 
+/>
+<img 
+    align="left" 
+    alt="Exel" 
+    title="Exel"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" 
+/>          
+                         
+</br>
 
-### ⚙️ Softwares - UI/UX
+### ✨Design - UI/UX
 
 <img 
     align="left" 
@@ -100,7 +129,7 @@ Apaixonada por tecnologia, inovação e aprendizado contínuo, busco oportunidad
     title="Photoshop"
     width="30px" 
     style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-plain.svg" 
+    src="https://img.icons8.com/color/48/adobe-photoshop--v1.png"  
 />
 
 <img 
@@ -109,7 +138,7 @@ Apaixonada por tecnologia, inovação e aprendizado contínuo, busco oportunidad
     title="Illustrator"
     width="30px" 
     style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg"
+    src="https://img.icons8.com/color/48/adobe-illustrator--v1.png" 
  /> 
 
 <br/>
