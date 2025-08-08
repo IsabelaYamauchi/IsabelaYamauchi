@@ -10,18 +10,28 @@ Apaixonada por tecnologia, inovação e aprendizado contínuo, busco oportunidad
 
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/isabelayamauchi/">
-        <img 
-            alt="perfil linkedin" 
-            title="Linkedin" 
-            src="https://img.shields.io/badge/Linkedin-08403F"
-        />
-    </a>
+  <a href="https://www.linkedin.com/in/isabelayamauchi/">
+    <img
+      alt="Perfil LinkedIn"
+      title="LinkedIn"
+      src="https://img.shields.io/badge/LinkedIn-08403F"
+    />
+  </a>
+  <a href="mailto:isa.yamauchi.y@gmail.com">
+    <img
+      alt="Enviar e-mail"
+      title="Enviar e-mail"
+      src="https://img.shields.io/badge/Email-A91B0D"
+    />
+  </a>
 </p>
+
+
+
 
 ---
 
-### ✨Front-end : 
+### Front-end : 
 
 <img 
     align="left" 
@@ -51,7 +61,7 @@ Apaixonada por tecnologia, inovação e aprendizado contínuo, busco oportunidad
 
 </br>
 
-### ✨Back-end:
+### Back-end:
 
 <img 
     align="left" 
@@ -83,7 +93,7 @@ Apaixonada por tecnologia, inovação e aprendizado contínuo, busco oportunidad
 
 </br>
 
-### ✨Ferramentas:
+### Ferramentas:
 
 <img 
     align="left" 
@@ -113,7 +123,7 @@ Apaixonada por tecnologia, inovação e aprendizado contínuo, busco oportunidad
                          
 </br>
 
-### ✨Design - UI/UX
+### ⚙️ Design - UI/UX
 
 <img 
     align="left" 
